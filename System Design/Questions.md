@@ -1,0 +1,6 @@
+- Design a flight booking system (Comp Arch , Destination)
+- Make a design of Google Sheets
+  - What will be the high-level component architecture.
+  - What are the props you will take in the component.
+  - Mention about the ways you will optimise the rendering and virtualisation.
+  - What will be the api calls for this component.

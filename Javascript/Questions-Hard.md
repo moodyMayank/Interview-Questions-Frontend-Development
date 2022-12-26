@@ -1,0 +1,12 @@
+- Write Polyfill of reduce
+- Explain and tell the difference between call , bind and apply
+- Write Polyfill of bind
+- How is the keyword `this` different
+- How to fetch data from a source in JS . Also optimise using debounce with Code.
+- What is the difference between debounce and throttle.
+- What is Closure. Explain with Examples
+- What is Hoisting. Explain with Examples
+- How is the DOM traversed ?
+- What is Javascript Prototype ?
+- Explain Method Chaining in Javascript
+- How to memoize functions? Why to do it?
