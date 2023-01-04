@@ -1,0 +1,25 @@
+#### Easy
+
+- Why React is so popular.
+- Why React is called React.
+- What are the features of React.
+- Which React version you have used.
+- What is JSX.
+- What is VirtualDOM.
+- What are Hooks in React.
+- What is React Fragment.
+- What is an event in React.
+- Whate are props in React.
+- What are Components in React.
+- What are Class and Functional Components in React.
+- What is a state in React.
+- What are Pure Components.
+- What is higher-order component in React.
+- What are lifecycle methods in React. { Class Components }
+- What are lifecycle methods in React. { Functional Components }
+- What are Controlled and Uncontrolled Components.
+- What is React Router and Why do we need it.
+- What is Redux.
+- What are components of Redux.
+- What is Flux.
+- can JSX Code directly run on browser ?
