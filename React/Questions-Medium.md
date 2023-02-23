@@ -21,3 +21,8 @@
 - What are the `e` pointers events supported in React.
 - What do portals in React mean?
 - What are the limitations of React.
+
+---
+
+- Problem 1:-
+  Question: Create a age input box , if entered age is less than 18 => show error

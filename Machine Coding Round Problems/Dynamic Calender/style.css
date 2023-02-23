@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #9b59b6;
+}
+
+/* Full Wrapper */
+.wrapper {
+  width: 500px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+/* Header */
+.wrapper header {
+  display: flex;
+  align-items: center;
+  padding: 25px 30px 10px;
+  justify-content: space-between;
+}
+
+header .current-date {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+header .icons span {
+  height: 38px;
+  width: 38px;
+  margin: 0 1px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 50%;
+  cursor: pointer;
+  color: #878787;
+  font-size: 2rem;
+}
+
+header .icons span:hover {
+  background-color: #f2f2f2;
+}
+
+header .icons span:last-child {
+  margin-right: -15px;
+}
+
+/* Calender */
+
+.calender {
+  padding: 20px;
+}
+
+.calender ul {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.calender .weeks {
+}
+
+.calender ul li {
+  width: calc(100% / 7);
+}

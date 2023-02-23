@@ -23,3 +23,13 @@
 - Problem 7
   Build User Avatar Screen
   [https://devtools.tech/questions/s/build-user-avatar-screen-or-frontend-coding-challenge-or-javascript-interview-question-or-machine-coding-round---qid---VyWQo0TX9OLVB7Dxm173]
+
+- Random Quote generator
+- API : api.quotable.io/random
+- Should include Header "Quote of the Day"
+- Quote Section Where it should change upon clicking on the button
+- Button : Which changes the quote
+- Clipboard button
+- Additional features
+  - Add TextReader functionality
+  - Add Button to tweet directly

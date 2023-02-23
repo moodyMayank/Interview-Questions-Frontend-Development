@@ -9,7 +9,7 @@
 - What are Hooks in React.
 - What is React Fragment.
 - What is an event in React.
-- Whate are props in React.
+- What are props in React.
 - What are Components in React.
 - What are Class and Functional Components in React.
 - What is a state in React.
