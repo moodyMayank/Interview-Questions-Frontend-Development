@@ -1,3 +1,0 @@
-- Which other frameworks have you worked on ?
-- What is CSRF? Do you know something about web security? How does React handle that?
-- What is Babel ?
