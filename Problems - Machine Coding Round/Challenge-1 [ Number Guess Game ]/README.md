@@ -26,5 +26,4 @@ Build A Guess Number Game , At the start it will pick a random number from 1 to 
 
 ## Design :-
 
-- A simple UI design is provided in the folder itself.
   ![Alt text](Number%20Guess%20Game%20Design.png)
